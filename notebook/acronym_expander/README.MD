@@ -41,7 +41,7 @@ from google.colab import auth as google_auth
 
 ## Notebook
 
-[Acronym Expansion Notebook](https://console.cloud.google.com/vertex-ai/colab/notebooks?project=wf-gcp-us-sup-decoupling-sbx&activeNb=projects%2Fwf-gcp-us-sup-decoupling-sbx%2Flocations%2Fus-central1%2Frepositories%2Fba929591-ea09-447c-a779-9063314d6cdc):
+[Acronym Expansion Notebook]:
 This notebook walks you through the process of uploading a file, expanding acronyms using Vertex AI, and saving the result to BigQuery.
 
 
